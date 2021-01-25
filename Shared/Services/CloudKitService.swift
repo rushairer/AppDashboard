@@ -104,7 +104,9 @@ final class CloudKitService: ObservableObject {
     }
     
     func createNotification(containerName: String, title: String, content: String, info: String) {
-        let recordType = "CloudNotification_zh"
+        
+        // TODO: 多语言版本支持
+        let recordType = "CloudNotification"
         
         let container = CKContainer(identifier: containerName)
         

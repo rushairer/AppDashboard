@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/rushairer/ABCloudKitPublicDatabaseSyncEngine",
         "state": {
           "branch": null,
-          "revision": "8708101b759915af87fe85b891229147a3f2bf2f",
-          "version": "0.1.2"
+          "revision": "01497acfbbf9172b44d6a5cd06daeb35bf24a86e",
+          "version": "0.1.3"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/rushairer/ABSwiftKitExtension",
         "state": {
           "branch": null,
-          "revision": "d90dae9ad3a36c4d79212fb533b130d36d0e9445",
-          "version": "0.2.4"
+          "revision": "c97910a940026c3a363a53c81bfc1e99fed93906",
+          "version": "0.2.6"
         }
       }
     ]

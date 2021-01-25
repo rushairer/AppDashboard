@@ -41,6 +41,7 @@
 /* Begin PBXFileReference section */
 		C72D96362599E4BB0092FF41 /* InfoPlist.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = InfoPlist.strings; sourceTree = "<group>"; };
 		C72DD1142596F5FE0020F68C /* MacCloudNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacCloudNotification.swift; sourceTree = "<group>"; };
+		C72FA50625BEA57500B7BEEB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C73B95952597868E00AB1478 /* CloudKitService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitService.swift; sourceTree = "<group>"; };
 		C73B95A725979CD800AB1478 /* Dashboard.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Dashboard.xcdatamodel; sourceTree = "<group>"; };
 		C73B95AC25979E0C00AB1478 /* CloudNotificationPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudNotificationPage.swift; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 		C7CFFB7D2595BE14007D318F = {
 			isa = PBXGroup;
 			children = (
+				C72FA50625BEA57500B7BEEB /* README.md */,
 				C7CFFBB02595C166007D318F /* Dashboard.entitlements */,
 				C7CFFB822595BE14007D318F /* Shared */,
 				C7CFFB8F2595BE17007D318F /* iOS */,

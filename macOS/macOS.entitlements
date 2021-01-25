@@ -8,6 +8,7 @@
 	<array>
 		<string>iCloud.io.aben.Dashboard</string>
 		<string>iCloud.io.aben.Metronome</string>
+		<string>iCloud.com.sincenow.FilmFilm</string>
 	</array>
 	<key>com.apple.developer.icloud-services</key>
 	<array>
